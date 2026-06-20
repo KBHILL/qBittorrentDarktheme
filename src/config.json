@@ -1,0 +1,23 @@
+{
+    "palette": {
+        "Window": "#1a0813",
+        "WindowText": "#f0dbeb",
+        "Base": "#2d1223",
+        "AlternateBase": "#36182b",
+        "ToolTipBase": "#1a0813",
+        "ToolTipText": "#f0dbeb",
+        "Text": "#f0dbeb",
+        "Button": "#421b35",
+        "ButtonText": "#f0dbeb",
+        "BrightText": "#ff79c6",
+        "Highlight": "#a11d70",
+        "HighlightedText": "#ffffff",
+        "Link": "#ff79c6"
+    },
+    "TransferList": {
+        "Downloading": "#ff79c6",
+        "Seeding": "#50fa7b",
+        "Paused": "#6272a4",
+        "Error": "#ff5555"
+    }
+}
